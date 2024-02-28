@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/formulario.scss","layout/formulario.css"],"names":[],"mappings":"AAAA,YACI,gBCCJ","file":"formulario.css","sourcesContent":[".formulario {\r\n    font-size: 1.4rem;\r\n}",".formulario {\n  font-size: 1.4rem;\n}"]}
